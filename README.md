@@ -7,7 +7,7 @@ EECS Major student
 I am Eric Ma, a UC Berkeley Student majoring in Electrical Engineering and Computer Science.
 
 * 🌍  I'm based in Bay Area and Hong Kong
-* 🧠  I'm learning Trading Algorithms and ML/AI
+* 🧠  I'm learning ML/AI, Fullstack, and Trading Algorithms 
 * 🤝  I'm open to collaborating on any interesting and fun stuff
 
 ### Skills
